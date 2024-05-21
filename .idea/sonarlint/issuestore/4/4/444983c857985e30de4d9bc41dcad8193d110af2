@@ -1,0 +1,13 @@
+
+p
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ
+i
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü
+l
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(‘èÅ
+m
+java:S1104"RMake salary a static final constant or non-public and provide accessors if needed.(ù¯¹üÿÿÿÿ
+m
+java:S1104	"WMake departrment a static final constant or non-public and provide accessors if needed.(£ä¹Ä
